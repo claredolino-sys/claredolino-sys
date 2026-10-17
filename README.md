@@ -14,7 +14,7 @@ I'm a Magna Cum Laude Information Systems graduate interested in the intersectio
 I enjoy understanding user and business needs, analyzing workflows, translating requirements into system designs, and building practical software solutions. My work spans web applications, database-driven systems, process automation, and AI-assisted product development.  
 My approach combines analytical thinking, continuous learning, collaborative execution, and iterative improvement. I use modern development tools to prototype, build, test, and refine solutions while strengthening my understanding of the engineering behind them.  
 I'm exploring opportunities across technology graduate programmes, technical product development, systems analysis, and software innovation.  
-I believe good technology starts with understanding the problem—not just writing the code.
+I believe good technology starts with understanding the problem, not just writing the code.
 
 🔭 &nbsp;I'm currently working on **Building and refining practical web applications focused on business workflows, information management, and AI-enabled features.**  
 🌱 &nbsp;I'm currently learning **Software engineering fundamentals, system design, API architecture, automated testing, and responsible AI integration.**  
